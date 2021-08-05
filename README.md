@@ -1,4 +1,16 @@
 # Pilton Youth & Children's Project
+> Refactor an administration app for the staff at Pilton Youth and Children's Project.
+
+
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Lessons Learned](#Lessons-learned)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Project Status](#project-status)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
 ![PYCP Gif](pycp.gif)
 
