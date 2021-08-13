@@ -8,9 +8,9 @@
 * [The Client](#the-client)
 * [The Team](#the-team)
 * [The Application](#the-application)
-* [Screenshots](#screenshots)
 * [My Actions](#my-actions)
 * [Lessons Learned](#Lessons-learned)
+* [Screenshots](#screenshots)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
