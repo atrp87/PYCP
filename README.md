@@ -4,12 +4,13 @@
 
 ## Table of Contents
 * [My Role](#my-role)
-* [The Client](#the-client)
 * [Technologies Used](#technologies-used)
-* [Lessons Learned](#Lessons-learned)
+* [The Client](#the-client)
+* [The Team](#the-team)
+* [The Application](#the-application)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Project Status](#project-status)
+* [My Actions](#my-actions)
+* [Lessons Learned](#Lessons-learned)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
@@ -29,6 +30,27 @@
 - PYCP is a youth group who help and support children and young people in the local community. They rely on funding in order to provide them opportunities for new experiences and support to any difficulties so they can have the best chance of a successful future.
 
 
+## The Team
+- We inherited the project at the start of July 2020. Where we worked remotely due to Covid-19.
+6 Software Developer Graduates, 3 working on the front end refactoring and maintaining, 3 on the back end refactoring the database from MongoDB to Firebase.
+
+- Using Agile methodologies (specifically Scrum) one of the instructors acted as a product owner but we created the backlog ourselves and picked off user stories to plan each sprint. One of us acted as a Scrum master to manage the work we were doing. 
+
+- At the end of each sprint we demoed working software. At the start of each morning we had a standup to discuss what we had been working on and what we were going to do that day.
+
+- updating the status on tickets, code reviews along with Sprint planning, Sprint review and Sprint retrospective meetings. In a work environment, with real clients from community organisations. organisations
+
+
+## The Application
+
+
+## My Actions
+
+
+## Lessons Learned
+
+
+## Screenshots
 ![PYCP Gif](pycp.gif)
 
 ## Acknowledgements
