@@ -8,9 +8,8 @@
 * [The Client](#the-client)
 * [The Team](#the-team)
 * [The Application](#the-application)
-* [My Actions](#my-actions)
-* [Lessons Learned](#Lessons-learned)
 * [Screenshots](#screenshots)
+* [My Actions](#my-actions) 
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
@@ -42,16 +41,35 @@
 
 
 ## The Application
+-The projected was created by a cohort of software developer graduates back in 2019. Since then the project has been worked on by numerous developers.
 
+-The cohort we inherited from had been working on the project for 4 months. They had a good relationship with the client where they identified key problems with the project and created wireframes gaining feedback from the client. 
+They put together an extensive documentation and brief using Google Drive shared online that made coming into this project easier.
 
-## My Actions
-
-
-## Lessons Learned
+-Core functionality:
+* A landing page with navigation to all sections of the app.
+* A consent form filled in by the admin staff or can be printed off and filled in that the staff can copy over into the app.
+* Activities and clubs are created allocated individuals or groups of individuals.
+* Generating specific reports on search options ie.. allergies, age & medical conditions
+* Attendance register for activities
+* Contact number page
 
 
 ## Screenshots
 ![PYCP Gif](pycp.gif)
+
+
+## My Actions
+- The code base was very large unlike anything I had worked on before, Thankfully I was able to get a verbal overview of the system, I took notes and had questions ready beforehand. 
+
+- I spent a day using the product as if I was a user to get a better feel of what it does while looking over the documentation, file structure and checking 3rd party libraries the app was using.
+
+- Some of the things I learnt while working on the code base learn how the major parts ( components ) work together, state, props, JSX, Styling ( in React ), Conditional Rendering, Lists & Keys and Forms
+
+![File Structure](file_structure)
+![Notion](Notion)
+
+
 
 ## Acknowledgements
 - [Pilton Youth & Children's Project](https://pycp.co.uk/).
