@@ -66,8 +66,8 @@ They put together an extensive documentation and brief using Google Drive shared
 
 - Some of the things I learnt while working on the code base learn how the major parts ( components ) work together, state, props, JSX, Styling ( in React ), Conditional Rendering, Lists & Keys and Forms
 
-![File Structure](file_structure)
-![Notion](Notion)
+![File Structure](file_structure.png)
+![Notion](Notion.jpg)
 
 
 
