@@ -37,19 +37,19 @@
 
 - At the end of each sprint we demoed working software. At the start of each morning we had a standup to discuss what we had been working on and what we were going to do that day.
 
-- updating the status on tickets, code reviews along with Sprint planning, Sprint review and Sprint retrospective meetings. In a work environment, with real clients from community organisations. organisations
+- updating the status on tickets, code reviews along with Sprint planning, Sprint review and Sprint retrospective meetings. In a work environment, with real clients from community organisations. organisations.
 
 
 ## The Application
--The projected was created by a cohort of software developer graduates back in 2019. Since then the project has been worked on by numerous developers.
+- The projected was created by a cohort of software developer graduates back in 2019. Since then the project has been worked on by numerous developers.
 
--The cohort we inherited from had been working on the project for 4 months. They had a good relationship with the client where they identified key problems with the project and created wireframes gaining feedback from the client. 
+- The cohort we inherited from had been working on the project for 4 months. They had a good relationship with the client where they identified key problems with the project and created wireframes gaining feedback from the client. 
 They put together an extensive documentation and brief using Google Drive shared online that made coming into this project easier.
 
--Core functionality:
-* A landing page with navigation to all sections of the app.
-* A consent form filled in by the admin staff or can be printed off and filled in that the staff can copy over into the app.
-* Activities and clubs are created allocated individuals or groups of individuals.
+- Core functionality:
+* A landing page with navigation to all sections of the app
+* A consent form filled in by the admin staff or can be printed off and filled in that the staff can copy over into the app
+* Activities and clubs are created allocated individuals or groups of individuals
 * Generating specific reports on search options ie.. allergies, age & medical conditions
 * Attendance register for activities
 * Contact number page
@@ -64,7 +64,7 @@ They put together an extensive documentation and brief using Google Drive shared
 
 - I spent a day using the product as if I was a user to get a better feel of what it does while looking over the documentation, file structure and checking 3rd party libraries the app was using.
 
-- Some of the things I learnt while working on the code base learn how the major parts ( components ) work together, state, props, JSX, Styling ( in React ), Conditional Rendering, Lists & Keys and Forms
+- Some of the things I learnt while working on the code base learn how the major parts ( components ) work together, state, props, JSX, Styling ( in React ), Conditional Rendering, Lists & Keys and Forms.
 
 ![File Structure](file_structure.png)
 ![Notion](Notion.png)
